@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+playwright-report/
+test-results/
+.DS_Store
+*.local
+
+# IPA原本・OCRなどのローカル抽出作業資料
+sources/*/

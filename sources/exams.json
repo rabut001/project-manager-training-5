@@ -1,0 +1,133 @@
+[
+  {
+    "id": "2024-r06-aki",
+    "title": "令和6年度 秋期",
+    "year": 2024,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2024r06.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/m42obm000000afqx-att/2024r06a_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2023-r05-aki",
+    "title": "令和5年度 秋期",
+    "year": 2023,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2023r05.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/ps6vr70000010d6y-att/2023r05a_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2022-r04-aki",
+    "title": "令和4年度 秋期",
+    "year": 2022,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2022r04.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/gmcbt80000008smf-att/2022r04a_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2021-r03-aki",
+    "title": "令和3年度 秋期",
+    "year": 2021,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2021r03.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/gmcbt8000000apad-att/2021r03a_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2020-r02-oct",
+    "title": "令和2年度 10月試験",
+    "year": 2020,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2020r02.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/gmcbt8000000d05l-att/2020r02o_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2019-h31-haru",
+    "title": "平成31年度 春期",
+    "year": 2019,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2019h31.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/gmcbt8000000ddiw-att/2019h31h_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2018-h30-haru",
+    "title": "平成30年度 春期",
+    "year": 2018,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2018h30.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/gmcbt8000000fabr-att/2018h30h_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2017-h29-haru",
+    "title": "平成29年度 春期",
+    "year": 2017,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2017h29.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/gmcbt8000000fzx1-att/2017h29h_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2016-h28-haru",
+    "title": "平成28年度 春期",
+    "year": 2016,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2016h28.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/gmcbt8000000gn5o-att/2016h28h_pm_am2_qs.pdf",
+    "excludedQuestionNos": [
+      2
+    ]
+  },
+  {
+    "id": "2015-h27-haru",
+    "title": "平成27年度 春期",
+    "year": 2015,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2015h27.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/ug65p90000000f52-att/2015h27h_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2014-h26-haru",
+    "title": "平成26年度 春期",
+    "year": 2014,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2014h26.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/ug65p90000001dzu-att/2014h26h_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2013-h25-haru",
+    "title": "平成25年度 春期",
+    "year": 2013,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2013h25.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/ug65p90000002e6g-att/2013h25h_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2012-h24-haru",
+    "title": "平成24年度 春期",
+    "year": 2012,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2012h24.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/ug65p900000038er-att/2012h24h_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2011-h23-tokubetsu",
+    "title": "平成23年度 特別試験",
+    "year": 2011,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2011h23.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/ug65p90000003ya2-att/2011h23tokubetsu_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2010-h22-haru",
+    "title": "平成22年度 春期",
+    "year": 2010,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2010h22.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/ug65p90000004n2z-att/2010h22h_pm_am2_qs.pdf"
+  },
+  {
+    "id": "2009-h21-haru",
+    "title": "平成21年度 春期",
+    "year": 2009,
+    "questionCount": 25,
+    "sourcePage": "https://www.ipa.go.jp/shiken/mondai-kaiotu/2009h21.html",
+    "sourcePdf": "https://www.ipa.go.jp/shiken/mondai-kaiotu/ug65p90000009bhl-att/2009h21h_pm_am2_qs.pdf"
+  }
+]

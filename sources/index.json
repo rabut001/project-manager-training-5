@@ -1,0 +1,5562 @@
+{
+  "2009-h21-haru": [
+    {
+      "no": 1,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        54.239999999999995,
+        494.5999755859375,
+        368.24
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        44.52,
+        493.52001953125,
+        524.84
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "イ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        52.44,
+        495.32000732421875,
+        307.04
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "イ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        336.12,
+        495.32000732421875,
+        629.6
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "エ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        48.12,
+        493.8800048828125,
+        262.76
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "エ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        290.4,
+        493.8800048828125,
+        443.48
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "エ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        473.64,
+        493.8800048828125,
+        625.64
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "ア",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        49.56,
+        494.5999755859375,
+        182.84
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "イ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        211.56,
+        494.5999755859375,
+        425.84000000000003
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        45.24,
+        493.8800048828125,
+        557.96
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "エ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        47.04,
+        495.32000732421875,
+        163.04
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "ウ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        188.52,
+        495.32000732421875,
+        407.84000000000003
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "ア",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        431.16,
+        495.32000732421875,
+        567.6800000000001
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        46.32,
+        492.79998779296875,
+        284.72
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "ウ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        309.84,
+        492.79998779296875,
+        426.91999999999996
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "ア",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        456.36,
+        492.79998779296875,
+        608.72
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        56.400000000000006,
+        495.32000732421875,
+        228.56
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        258.0,
+        495.32000732421875,
+        511.52
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        48.12,
+        494.239990234375,
+        302.0
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        331.44,
+        494.239990234375,
+        423.68
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "イ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        54.239999999999995,
+        494.5999755859375,
+        411.08000000000004
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "エ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        438.36,
+        494.5999755859375,
+        530.6
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "エ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        48.84,
+        493.15997314453125,
+        222.8
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        250.44,
+        493.15997314453125,
+        484.15999999999997
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "ウ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        512.88,
+        493.15997314453125,
+        645.08
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2010-h22-haru": [
+    {
+      "no": 1,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        53.849999999999994,
+        492.55999755859375,
+        206.57
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        237.0,
+        492.55999755859375,
+        576.9200000000001
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        52.78,
+        495.91998291015625,
+        266.70000000000005
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        296.45,
+        495.91998291015625,
+        508.93
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "エ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        57.45,
+        491.84002685546875,
+        247.25
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "ア",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        274.07,
+        491.84002685546875,
+        653.59
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "イ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        53.5,
+        494.47998046875,
+        226.02
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "イ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        255.06,
+        494.47998046875,
+        495.26
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "ア",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        57.81,
+        491.84002685546875,
+        249.77
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "ア",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        278.74,
+        491.84002685546875,
+        511.02
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "イ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        57.81,
+        492.55999755859375,
+        209.81
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "イ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        237.36,
+        492.55999755859375,
+        391.16
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "エ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        420.16,
+        492.55999755859375,
+        650.28
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "エ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        57.45,
+        491.84002685546875,
+        188.57
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        217.93,
+        491.84002685546875,
+        369.93
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        400.01,
+        491.84002685546875,
+        631.5699999999999
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "イ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        58.18000000000001,
+        493.03997802734375,
+        357.42
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "ウ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        387.15,
+        493.03997802734375,
+        596.03
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "ア",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        58.53,
+        491.1199951171875,
+        190.37
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ウ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        217.93,
+        491.1199951171875,
+        429.69000000000005
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        457.94,
+        491.1199951171875,
+        629.74
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        57.099999999999994,
+        491.5999755859375,
+        188.22
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "エ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        217.63,
+        491.5999755859375,
+        508.95
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "エ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        52.06,
+        490.8800048828125,
+        309.54
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        332.08,
+        490.8800048828125,
+        548.88
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2011-h23-tokubetsu": [
+    {
+      "no": 1,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        62.5,
+        494.47998046875,
+        273.18
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        300.41,
+        494.47998046875,
+        452.77000000000004
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "ウ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        480.73,
+        494.47998046875,
+        573.69
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "エ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        63.239999999999995,
+        498.55999755859375,
+        516.2
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "ウ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        62.14,
+        493.760009765625,
+        232.5
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "イ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        261.18,
+        493.760009765625,
+        453.14
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "ウ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        62.129999999999995,
+        498.32000732421875,
+        357.05
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "エ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        382.74,
+        498.32000732421875,
+        594.86
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "イ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        64.28,
+        494.0,
+        214.48000000000002
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "エ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        243.48,
+        494.0,
+        556.4
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "ア",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        62.86,
+        498.08001708984375,
+        274.62
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "ア",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        301.85,
+        498.08001708984375,
+        433.69000000000005
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "イ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        462.37,
+        498.08001708984375,
+        669.0240112304688
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "ウ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        60.34,
+        491.5999755859375,
+        211.98000000000002
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "ウ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        241.38,
+        491.5999755859375,
+        393.38
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "ア",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        422.06,
+        491.5999755859375,
+        553.54
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "イ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        62.489999999999995,
+        494.0,
+        532.01
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "ア",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        63.94,
+        492.32000732421875,
+        234.66
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        261.9,
+        492.32000732421875,
+        394.46
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        61.41,
+        494.0,
+        611.5699999999999
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "ア",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        59.28,
+        492.79998779296875,
+        477.32000000000005
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "エ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        54.209999999999994,
+        494.719970703125,
+        404.21
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "ウ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        425.56,
+        494.719970703125,
+        544.8
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "エ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        566.61,
+        494.719970703125,
+        643.73
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "ア",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        61.42,
+        491.5999755859375,
+        253.74
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2012-h24-haru": [
+    {
+      "no": 1,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        61.8,
+        493.52001953125,
+        233.95999999999998
+      ],
+      "image": "q01.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 2,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        262.68,
+        493.52001953125,
+        453.92
+      ],
+      "image": "q02.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 3,
+      "answer": "エ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        65.04,
+        493.52001953125,
+        403.16
+      ],
+      "image": "q03.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 4,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        434.04,
+        493.52001953125,
+        645.8000000000001
+      ],
+      "image": "q04.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 5,
+      "answer": "ウ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        65.4,
+        493.52001953125,
+        214.88000000000002
+      ],
+      "image": "q05.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 6,
+      "answer": "ウ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        245.76,
+        493.52001953125,
+        497.48
+      ],
+      "image": "q06.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 7,
+      "answer": "イ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        64.68,
+        493.52001953125,
+        305.24
+      ],
+      "image": "q07.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 8,
+      "answer": "イ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        331.44,
+        493.52001953125,
+        668.12
+      ],
+      "image": "q08.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 9,
+      "answer": "ア",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        65.04,
+        493.52001953125,
+        296.24
+      ],
+      "image": "q09.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 10,
+      "answer": "ア",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        324.24,
+        493.52001953125,
+        475.52
+      ],
+      "image": "q10.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 11,
+      "answer": "ウ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        503.88,
+        493.52001953125,
+        595.4
+      ],
+      "image": "q11.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 12,
+      "answer": "イ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        58.92,
+        493.52001953125,
+        382.28000000000003
+      ],
+      "image": "q12.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 13,
+      "answer": "イ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        410.64,
+        493.52001953125,
+        563.0
+      ],
+      "image": "q13.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 14,
+      "answer": "エ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        62.879999999999995,
+        493.52001953125,
+        194.72
+      ],
+      "image": "q14.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 15,
+      "answer": "ア",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        223.8,
+        493.52001953125,
+        395.24
+      ],
+      "image": "q15.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 16,
+      "answer": "ウ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        423.24,
+        493.52001953125,
+        636.8
+      ],
+      "image": "q16.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 17,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        64.32,
+        493.52001953125,
+        235.76
+      ],
+      "image": "q17.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 18,
+      "answer": "イ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        265.2,
+        493.52001953125,
+        456.44
+      ],
+      "image": "q18.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 19,
+      "answer": "ウ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        63.959999999999994,
+        493.52001953125,
+        295.16
+      ],
+      "image": "q19.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 20,
+      "answer": "ア",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        324.24,
+        493.52001953125,
+        493.88
+      ],
+      "image": "q20.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 21,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        64.68,
+        493.52001953125,
+        306.68
+      ],
+      "image": "q21.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 22,
+      "answer": "ア",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        334.68,
+        493.52001953125,
+        446.36
+      ],
+      "image": "q22.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 23,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        475.8,
+        493.52001953125,
+        606.9200000000001
+      ],
+      "image": "q23.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 24,
+      "answer": "イ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        61.8,
+        493.52001953125,
+        273.56
+      ],
+      "image": "q24.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 25,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        304.44,
+        493.52001953125,
+        475.52
+      ],
+      "image": "q25.png",
+      "method": "ocr-flattened-rotation"
+    }
+  ],
+  "2013-h25-haru": [
+    {
+      "no": 1,
+      "answer": "ウ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        58.2,
+        493.52001953125,
+        190.04000000000002
+      ],
+      "image": "q01.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 2,
+      "answer": "ア",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        218.76,
+        493.52001953125,
+        329.72
+      ],
+      "image": "q02.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 3,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        358.8,
+        493.52001953125,
+        549.6800000000001
+      ],
+      "image": "q03.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 4,
+      "answer": "エ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        58.56,
+        493.52001953125,
+        290.84000000000003
+      ],
+      "image": "q04.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 5,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        320.64,
+        493.52001953125,
+        451.03999999999996
+      ],
+      "image": "q05.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 6,
+      "answer": "ウ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        59.28,
+        493.52001953125,
+        270.68
+      ],
+      "image": "q06.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 7,
+      "answer": "ア",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        300.12,
+        493.52001953125,
+        510.44
+      ],
+      "image": "q07.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 8,
+      "answer": "ア",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        60.36,
+        493.52001953125,
+        307.40000000000003
+      ],
+      "image": "q08.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 9,
+      "answer": "ア",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        334.68,
+        493.52001953125,
+        485.96000000000004
+      ],
+      "image": "q09.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 10,
+      "answer": "ウ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        59.64,
+        493.52001953125,
+        312.44
+      ],
+      "image": "q10.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 11,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        60.72,
+        493.52001953125,
+        534.92
+      ],
+      "image": "q11.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 12,
+      "answer": "ウ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        58.92,
+        493.52001953125,
+        353.48
+      ],
+      "image": "q12.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 13,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        377.88,
+        493.52001953125,
+        530.6
+      ],
+      "image": "q13.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 14,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        60.36,
+        493.52001953125,
+        316.40000000000003
+      ],
+      "image": "q14.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 15,
+      "answer": "ウ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        345.48,
+        493.52001953125,
+        649.4000000000001
+      ],
+      "image": "q15.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 16,
+      "answer": "ア",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        61.8,
+        493.52001953125,
+        271.04
+      ],
+      "image": "q16.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 17,
+      "answer": "ウ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        300.12,
+        493.52001953125,
+        451.04
+      ],
+      "image": "q17.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 18,
+      "answer": "イ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        62.16,
+        493.52001953125,
+        313.15999999999997
+      ],
+      "image": "q18.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 19,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        340.8,
+        493.52001953125,
+        551.84
+      ],
+      "image": "q19.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 20,
+      "answer": "エ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        60.0,
+        493.52001953125,
+        269.96000000000004
+      ],
+      "image": "q20.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 21,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        299.4,
+        493.52001953125,
+        430.15999999999997
+      ],
+      "image": "q21.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 22,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        459.24,
+        493.52001953125,
+        590.0
+      ],
+      "image": "q22.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 23,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        59.28,
+        493.52001953125,
+        171.68
+      ],
+      "image": "q23.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 24,
+      "answer": "ウ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        200.04,
+        493.52001953125,
+        331.88
+      ],
+      "image": "q24.png",
+      "method": "ocr-flattened-rotation"
+    },
+    {
+      "no": 25,
+      "answer": "ア",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        360.6,
+        493.52001953125,
+        592.52
+      ],
+      "image": "q25.png",
+      "method": "ocr-flattened-rotation"
+    }
+  ],
+  "2014-h26-haru": [
+    {
+      "no": 1,
+      "answer": "ア",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        58.56,
+        493.52001953125,
+        254.12
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "ア",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        277.44,
+        493.52001953125,
+        623.12
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "エ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        58.56,
+        493.52001953125,
+        210.56
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "イ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        239.28,
+        493.52001953125,
+        410.72
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "エ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        440.16,
+        493.52001953125,
+        631.04
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "ウ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        63.959999999999994,
+        493.52001953125,
+        275.36
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "ア",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        305.88,
+        493.52001953125,
+        456.8
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "イ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        65.76,
+        493.52001953125,
+        375.08
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "エ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        403.08,
+        493.52001953125,
+        593.96
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "ウ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        62.519999999999996,
+        493.52001953125,
+        194.72
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "ウ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        224.88,
+        493.52001953125,
+        476.6
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "ア",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        61.44,
+        493.52001953125,
+        192.56
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        222.36,
+        493.52001953125,
+        373.28000000000003
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "エ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        65.4,
+        493.52001953125,
+        404.6
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        433.68,
+        493.52001953125,
+        664.52
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "ア",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        59.28,
+        493.52001953125,
+        215.6
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        241.8,
+        493.52001953125,
+        355.64
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "イ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        378.24,
+        493.52001953125,
+        667.76
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        61.44,
+        493.52001953125,
+        552.9200000000001
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        63.239999999999995,
+        493.52001953125,
+        613.0400000000001
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        61.44,
+        493.52001953125,
+        213.44
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        241.8,
+        493.52001953125,
+        476.24
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "ア",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        504.6,
+        493.52001953125,
+        671.0111865234376
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        60.0,
+        493.52001953125,
+        192.2
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        221.64,
+        493.52001953125,
+        452.84000000000003
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2015-h27-haru": [
+    {
+      "no": 1,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        64.32,
+        493.52001953125,
+        255.92
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        285.0,
+        493.52001953125,
+        514.04
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "ア",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        540.96,
+        493.52001953125,
+        671.0111303710938
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "イ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        62.519999999999996,
+        493.52001953125,
+        300.56
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "エ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        329.64,
+        493.52001953125,
+        585.3199999999999
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "エ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        68.28,
+        493.52001953125,
+        298.04
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "イ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        328.2,
+        493.52001953125,
+        518.72
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "ウ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        66.84,
+        493.52001953125,
+        276.08000000000004
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "ア",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        304.8,
+        493.52001953125,
+        456.08000000000004
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "ウ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        65.76,
+        493.52001953125,
+        278.24
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "ウ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        308.4,
+        493.52001953125,
+        600.8
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "エ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        64.68,
+        493.52001953125,
+        195.44
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        224.16,
+        493.52001953125,
+        335.84000000000003
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "イ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        364.56,
+        493.52001953125,
+        514.04
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        66.12,
+        493.52001953125,
+        498.56
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "ア",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        66.48,
+        493.52001953125,
+        316.40000000000003
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "イ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        345.12,
+        493.52001953125,
+        556.88
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        66.12,
+        493.52001953125,
+        238.28
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        265.92,
+        493.52001953125,
+        418.28000000000003
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        65.04,
+        493.52001953125,
+        304.16
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "ア",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        332.88,
+        493.52001953125,
+        484.88
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        515.04,
+        493.52001953125,
+        646.52
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        63.959999999999994,
+        493.52001953125,
+        295.88
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "ア",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        324.96,
+        493.52001953125,
+        456.44
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "ア",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        62.519999999999996,
+        493.52001953125,
+        273.56
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2016-h28-haru": [
+    {
+      "no": 1,
+      "answer": "ア",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        58.56,
+        493.52001953125,
+        247.32
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": null,
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        253.32,
+        493.52001953125,
+        390.2
+      ],
+      "image": "q02.png",
+      "method": "ocr",
+      "invalidReason": "IPAの公式解答に「誤りにより問題として成立しない」と記載されています。このアプリでは採点対象から除外します。"
+    },
+    {
+      "no": 3,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        419.28,
+        493.52001953125,
+        590.72
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "イ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        54.959999999999994,
+        493.52001953125,
+        246.92000000000002
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        277.8,
+        493.52001953125,
+        488.48
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "ア",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        517.2,
+        493.52001953125,
+        668.84
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "ウ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        58.92,
+        493.52001953125,
+        250.51999999999998
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "ウ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        56.760000000000005,
+        493.52001953125,
+        555.08
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "ウ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        56.760000000000005,
+        493.52001953125,
+        228.92000000000002
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "ウ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        258.72,
+        493.52001953125,
+        530.24
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "エ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        58.2,
+        493.52001953125,
+        395.24
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "ウ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        57.120000000000005,
+        493.52001953125,
+        362.84000000000003
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        393.0,
+        493.52001953125,
+        644.36
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        55.68000000000001,
+        493.52001953125,
+        226.76000000000002
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "ウ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        256.56,
+        493.52001953125,
+        448.88
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        477.96,
+        493.52001953125,
+        609.0799999999999
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        57.84,
+        493.52001953125,
+        229.28
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "ウ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        259.08,
+        493.52001953125,
+        471.56
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        500.64,
+        493.52001953125,
+        610.88
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ア",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        56.400000000000006,
+        493.52001953125,
+        268.52
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        297.96,
+        493.52001953125,
+        509.0
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "エ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        56.760000000000005,
+        493.52001953125,
+        268.52000000000004
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "イ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        297.96,
+        493.52001953125,
+        530.6
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        55.31999999999999,
+        493.52001953125,
+        248.0
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        276.36,
+        493.52001953125,
+        489.56000000000006
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2017-h29-haru": [
+    {
+      "no": 1,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        52.08,
+        493.52001953125,
+        243.68
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "ア",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        274.2,
+        493.52001953125,
+        405.68
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        434.76,
+        493.52001953125,
+        665.6
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        51.0,
+        493.52001953125,
+        264.20000000000005
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        292.56,
+        493.52001953125,
+        465.08000000000004
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "エ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        52.8,
+        493.52001953125,
+        310.28000000000003
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "エ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        339.36,
+        493.52001953125,
+        452.12
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "ウ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        52.08,
+        493.52001953125,
+        264.56
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "ア",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        292.92,
+        493.52001953125,
+        465.44000000000005
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "イ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        52.44,
+        493.52001953125,
+        607.6400000000001
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "エ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        54.599999999999994,
+        493.52001953125,
+        265.28
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        294.0,
+        493.52001953125,
+        526.28
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "ウ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        53.879999999999995,
+        493.52001953125,
+        354.56
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "エ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        380.76,
+        493.52001953125,
+        609.44
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "イ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        52.08,
+        493.52001953125,
+        555.08
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "ア",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        53.519999999999996,
+        493.52001953125,
+        347.71999999999997
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        376.44,
+        493.52001953125,
+        547.88
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "ア",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        55.31999999999999,
+        493.52001953125,
+        187.16
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "エ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        215.52,
+        493.52001953125,
+        408.20000000000005
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "イ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        436.92,
+        493.52001953125,
+        648.32
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "イ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        52.44,
+        493.52001953125,
+        311.72
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        341.16,
+        493.52001953125,
+        552.9200000000001
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "エ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        52.8,
+        493.52001953125,
+        305.24
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        334.32,
+        493.52001953125,
+        566.24
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "エ",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        53.16,
+        493.52001953125,
+        204.8
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2018-h30-haru": [
+    {
+      "no": 1,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        58.92,
+        493.52001953125,
+        211.28000000000003
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        240.36,
+        493.52001953125,
+        512.6
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "イ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        57.84,
+        493.52001953125,
+        249.08
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "ア",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        278.16,
+        493.52001953125,
+        430.16
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        459.24,
+        493.52001953125,
+        650.48
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "ウ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        60.72,
+        493.52001953125,
+        553.64
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "イ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        58.92,
+        493.52001953125,
+        357.08000000000004
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "エ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        56.760000000000005,
+        493.52001953125,
+        378.32
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        58.2,
+        493.52001953125,
+        361.04
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        389.76,
+        493.52001953125,
+        582.0799999999999
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "エ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        58.92,
+        493.52001953125,
+        210.92000000000002
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        240.0,
+        493.52001953125,
+        532.4000000000001
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        58.2,
+        493.52001953125,
+        169.16000000000003
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "ウ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        198.24,
+        493.52001953125,
+        349.88
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "ア",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        378.96,
+        493.52001953125,
+        529.88
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        58.92,
+        493.52001953125,
+        251.60000000000002
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        280.32,
+        493.52001953125,
+        432.32
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "イ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        60.0,
+        493.52001953125,
+        309.56
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "エ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        338.64,
+        493.52001953125,
+        490.64
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ア",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        518.64,
+        493.52001953125,
+        671.0
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "ア",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        59.28,
+        493.52001953125,
+        312.08000000000004
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "イ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        341.52,
+        493.52001953125,
+        572.72
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        58.2,
+        493.52001953125,
+        169.16000000000003
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        200.4,
+        493.52001953125,
+        296.6
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        327.84,
+        493.52001953125,
+        537.8
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2019-h31-haru": [
+    {
+      "no": 1,
+      "answer": "ウ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        58.2,
+        493.52001953125,
+        269.6
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        299.76,
+        493.52001953125,
+        556.52
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        57.480000000000004,
+        493.52001953125,
+        270.68
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "ア",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        297.96,
+        493.52001953125,
+        511.15999999999997
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "イ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        60.36,
+        493.52001953125,
+        291.92
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "ウ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        321.72,
+        493.52001953125,
+        573.08
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "ア",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        58.92,
+        493.52001953125,
+        270.32
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "エ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        299.76,
+        493.52001953125,
+        646.88
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "エ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        56.760000000000005,
+        493.52001953125,
+        286.88
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "ウ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        314.88,
+        493.52001953125,
+        636.44
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        57.480000000000004,
+        493.52001953125,
+        229.28000000000003
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        258.0,
+        493.52001953125,
+        449.6
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        57.120000000000005,
+        493.52001953125,
+        560.84
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        57.84,
+        493.52001953125,
+        250.16
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "ウ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        278.52,
+        493.52001953125,
+        491.0
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "ア",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        519.36,
+        493.52001953125,
+        651.5600000000001
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        56.400000000000006,
+        493.52001953125,
+        209.48000000000002
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "ウ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        238.56,
+        493.52001953125,
+        410.36
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "ウ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        439.08,
+        493.52001953125,
+        591.0799999999999
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ア",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        58.2,
+        493.52001953125,
+        249.8
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "イ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        279.24,
+        493.52001953125,
+        491.0
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        55.68000000000001,
+        493.52001953125,
+        248.0
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "エ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        277.44,
+        493.52001953125,
+        448.15999999999997
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "ア",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        477.24,
+        493.52001953125,
+        609.44
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        57.480000000000004,
+        493.52001953125,
+        268.52000000000004
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2020-r02-oct": [
+    {
+      "no": 1,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        56.040000000000006,
+        493.52001953125,
+        188.24
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        218.76,
+        493.52001953125,
+        488.48
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "エ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        54.239999999999995,
+        493.52001953125,
+        346.28000000000003
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "ア",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        375.36,
+        493.52001953125,
+        547.1600000000001
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "イ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        60.72,
+        493.52001953125,
+        250.52
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "ア",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        279.96,
+        493.52001953125,
+        411.44
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "エ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        56.760000000000005,
+        493.52001953125,
+        307.40000000000003
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "ア",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        338.64,
+        493.52001953125,
+        588.92
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "エ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        58.2,
+        493.52001953125,
+        397.04
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        55.31999999999999,
+        493.52001953125,
+        358.88
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "ア",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        388.32,
+        493.52001953125,
+        640.04
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        58.92,
+        493.52001953125,
+        207.68
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "エ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        238.56,
+        493.52001953125,
+        551.48
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        56.400000000000006,
+        493.52001953125,
+        288.32000000000005
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        317.4,
+        493.52001953125,
+        549.3199999999999
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "ウ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        59.64,
+        493.52001953125,
+        191.48000000000002
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        220.92,
+        493.52001953125,
+        411.79999999999995
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        440.52,
+        493.52001953125,
+        647.24
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "エ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        57.84,
+        493.52001953125,
+        229.64000000000001
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        258.0,
+        493.52001953125,
+        510.44
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        55.68000000000001,
+        493.52001953125,
+        207.32000000000002
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "エ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        236.04,
+        493.52001953125,
+        447.44
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "エ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        53.519999999999996,
+        493.52001953125,
+        265.28000000000003
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        289.68,
+        493.52001953125,
+        466.16
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "イ",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        50.64,
+        493.52001953125,
+        267.44
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2021-r03-aki": [
+    {
+      "no": 1,
+      "answer": "ウ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        59.64,
+        493.52001953125,
+        269.96
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        300.12,
+        493.52001953125,
+        556.88
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "ア",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        57.480000000000004,
+        493.52001953125,
+        188.96
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        218.04,
+        493.52001953125,
+        498.55999999999995
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "ウ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        63.239999999999995,
+        493.52001953125,
+        273.56
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "ア",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        302.64,
+        493.52001953125,
+        474.44
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "ア",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        60.36,
+        493.52001953125,
+        251.60000000000002
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "ウ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        282.12,
+        493.52001953125,
+        591.44
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "イ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        61.08,
+        493.52001953125,
+        272.48
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "イ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        301.56,
+        493.52001953125,
+        392.72
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        59.28,
+        493.52001953125,
+        378.68000000000006
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        408.12,
+        493.52001953125,
+        579.56
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        60.36,
+        493.52001953125,
+        562.64
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "イ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        57.84,
+        493.52001953125,
+        330.80000000000007
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "ウ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        358.44,
+        493.52001953125,
+        551.12
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        61.8,
+        493.52001953125,
+        313.16
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        341.88,
+        493.52001953125,
+        493.88
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        59.28,
+        493.52001953125,
+        590.36
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        59.28,
+        493.52001953125,
+        269.6
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        299.4,
+        493.52001953125,
+        569.8399999999999
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "ア",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        54.599999999999994,
+        493.52001953125,
+        308.84000000000003
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "ウ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        337.2,
+        493.52001953125,
+        469.03999999999996
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "ア",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        498.48,
+        493.52001953125,
+        568.76
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "イ",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        57.480000000000004,
+        493.52001953125,
+        270.32
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "イ",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        299.4,
+        493.52001953125,
+        510.79999999999995
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2022-r04-aki": [
+    {
+      "no": 1,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        60.72,
+        493.52001953125,
+        194.36
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        223.8,
+        493.52001953125,
+        514.76
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "ア",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        540.96,
+        493.52001953125,
+        671.0111303710938
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "ア",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        58.92,
+        493.52001953125,
+        230.36
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "エ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        259.44,
+        493.52001953125,
+        371.12
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "エ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        398.76,
+        493.52001953125,
+        610.16
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "イ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        63.959999999999994,
+        493.52001953125,
+        478.4
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "エ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        504.96000000000004,
+        493.52001953125,
+        671.0111303710938
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "ウ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        63.239999999999995,
+        493.52001953125,
+        381.56
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "エ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        62.519999999999996,
+        493.52001953125,
+        402.08
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "エ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        434.04,
+        493.52001953125,
+        665.96
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "ア",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        60.0,
+        493.52001953125,
+        481.64
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "ア",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        61.8,
+        493.52001953125,
+        480.20000000000005
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "ウ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        61.44,
+        493.52001953125,
+        352.40000000000003
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        381.12,
+        493.52001953125,
+        612.32
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        63.599999999999994,
+        493.52001953125,
+        156.2
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        185.64,
+        493.52001953125,
+        377.6
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "エ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        62.16,
+        493.52001953125,
+        404.96000000000004
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "エ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        434.4,
+        493.52001953125,
+        667.04
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        60.0,
+        493.52001953125,
+        273.20000000000005
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "イ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        300.48,
+        493.52001953125,
+        413.96000000000004
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "エ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        442.68,
+        493.52001953125,
+        654.44
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        59.64,
+        493.52001953125,
+        250.88
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "エ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        279.96,
+        493.52001953125,
+        511.88
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "ウ",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        61.08,
+        493.52001953125,
+        233.60000000000002
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2023-r05-aki": [
+    {
+      "no": 1,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        62.489999999999995,
+        494.0,
+        512.9300000000001
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "イ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        58.17,
+        494.0,
+        249.05
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "ア",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        278.38,
+        494.0,
+        390.42
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "ア",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        418.72,
+        494.0,
+        670.08
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "エ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        58.89,
+        494.0,
+        317.81
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "イ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        57.09,
+        494.0,
+        538.13
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "イ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        60.69,
+        494.0,
+        615.8900000000001
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "ア",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        59.25,
+        494.0,
+        250.85
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        280.54,
+        494.0,
+        552.06
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "ア",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        59.25,
+        494.0,
+        596.8100000000001
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "ア",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        56.730000000000004,
+        494.0,
+        188.21
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "イ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        217.21,
+        494.0,
+        308.73
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "エ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        337.76,
+        494.0,
+        658.24
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        60.69,
+        494.0,
+        212.69
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "ア",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        240.6,
+        494.0,
+        352.64
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        380.58,
+        494.0,
+        652.46
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "ア",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        58.53,
+        494.0,
+        268.49
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        298.9,
+        494.0,
+        547.38
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        59.61,
+        494.0,
+        293.33
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        320.49,
+        494.0,
+        574.01
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        57.45,
+        494.0,
+        349.13
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "ウ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        378.42,
+        494.0,
+        610.7
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "ア",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        58.89,
+        494.0,
+        271.73
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "エ",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        301.05,
+        494.0,
+        492.65
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "イ",
+      "pdfPage": 16,
+      "crop": [
+        28.0,
+        52.769999999999996,
+        494.0,
+        269.57
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2024-r06-aki": [
+    {
+      "no": 1,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        62.849999999999994,
+        494.0,
+        353.09000000000003
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "ア",
+      "pdfPage": 3,
+      "crop": [
+        28.0,
+        381.66,
+        494.0,
+        553.46
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        58.89,
+        494.0,
+        249.76999999999998
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "ウ",
+      "pdfPage": 4,
+      "crop": [
+        28.0,
+        279.46,
+        494.0,
+        587.3399999999999
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "エ",
+      "pdfPage": 5,
+      "crop": [
+        28.0,
+        63.92,
+        494.0,
+        314.2
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "イ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        62.129999999999995,
+        494.0,
+        441.65000000000003
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "エ",
+      "pdfPage": 6,
+      "crop": [
+        28.0,
+        471.62,
+        494.0,
+        662.5
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "ウ",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        61.05,
+        494.0,
+        293.69
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "ア",
+      "pdfPage": 7,
+      "crop": [
+        28.0,
+        321.92,
+        494.0,
+        433.24
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "エ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        59.97,
+        494.0,
+        295.85
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "イ",
+      "pdfPage": 8,
+      "crop": [
+        28.0,
+        323.0,
+        494.0,
+        554.2
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "イ",
+      "pdfPage": 9,
+      "crop": [
+        28.0,
+        61.769999999999996,
+        494.0,
+        563.33
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "イ",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        59.61,
+        494.0,
+        269.93
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "ア",
+      "pdfPage": 10,
+      "crop": [
+        28.0,
+        299.97,
+        494.0,
+        570.4100000000001
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        62.129999999999995,
+        494.0,
+        295.49
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        28.0,
+        323.36,
+        494.0,
+        496.24
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "エ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        58.89,
+        494.0,
+        289.37
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "イ",
+      "pdfPage": 12,
+      "crop": [
+        28.0,
+        319.05,
+        494.0,
+        550.61
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "ア",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        58.17,
+        494.0,
+        251.93
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "エ",
+      "pdfPage": 13,
+      "crop": [
+        28.0,
+        279.46,
+        494.0,
+        513.18
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "ウ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        56.010000000000005,
+        494.0,
+        387.65
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "イ",
+      "pdfPage": 14,
+      "crop": [
+        28.0,
+        416.2,
+        494.0,
+        647.04
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "エ",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        58.17,
+        494.0,
+        192.89
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "エ",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        219.73,
+        494.0,
+        333.21
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "ウ",
+      "pdfPage": 15,
+      "crop": [
+        28.0,
+        362.23,
+        494.0,
+        633.75
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ],
+  "2025-r07-aki": [
+    {
+      "no": 1,
+      "answer": "エ",
+      "pdfPage": 3,
+      "crop": [
+        45.0,
+        57.0,
+        473.0,
+        250.4
+      ],
+      "image": "q01.png",
+      "method": "ocr"
+    },
+    {
+      "no": 2,
+      "answer": "イ",
+      "pdfPage": 3,
+      "crop": [
+        45.0,
+        277.0,
+        473.0,
+        581.28
+      ],
+      "image": "q02.png",
+      "method": "ocr"
+    },
+    {
+      "no": 3,
+      "answer": "ア",
+      "pdfPage": 4,
+      "crop": [
+        45.0,
+        56.0,
+        473.0,
+        267.4
+      ],
+      "image": "q03.png",
+      "method": "ocr"
+    },
+    {
+      "no": 4,
+      "answer": "イ",
+      "pdfPage": 4,
+      "crop": [
+        45.0,
+        297.0,
+        473.0,
+        488.6
+      ],
+      "image": "q04.png",
+      "method": "ocr"
+    },
+    {
+      "no": 5,
+      "answer": "ア",
+      "pdfPage": 5,
+      "crop": [
+        45.0,
+        59.0,
+        473.0,
+        332.68
+      ],
+      "image": "q05.png",
+      "method": "ocr"
+    },
+    {
+      "no": 6,
+      "answer": "イ",
+      "pdfPage": 5,
+      "crop": [
+        45.0,
+        359.0,
+        473.0,
+        666.1600000000001
+      ],
+      "image": "q06.png",
+      "method": "ocr"
+    },
+    {
+      "no": 7,
+      "answer": "ウ",
+      "pdfPage": 6,
+      "crop": [
+        45.0,
+        59.0,
+        473.0,
+        513.4000000000001
+      ],
+      "image": "q07.png",
+      "method": "ocr"
+    },
+    {
+      "no": 8,
+      "answer": "ア",
+      "pdfPage": 7,
+      "crop": [
+        45.0,
+        59.0,
+        473.0,
+        252.4
+      ],
+      "image": "q08.png",
+      "method": "ocr"
+    },
+    {
+      "no": 9,
+      "answer": "エ",
+      "pdfPage": 7,
+      "crop": [
+        45.0,
+        280.0,
+        473.0,
+        618.12
+      ],
+      "image": "q09.png",
+      "method": "ocr"
+    },
+    {
+      "no": 10,
+      "answer": "イ",
+      "pdfPage": 8,
+      "crop": [
+        45.0,
+        58.0,
+        473.0,
+        151.32
+      ],
+      "image": "q10.png",
+      "method": "ocr"
+    },
+    {
+      "no": 11,
+      "answer": "ウ",
+      "pdfPage": 8,
+      "crop": [
+        45.0,
+        178.0,
+        473.0,
+        462.12
+      ],
+      "image": "q11.png",
+      "method": "ocr"
+    },
+    {
+      "no": 12,
+      "answer": "エ",
+      "pdfPage": 9,
+      "crop": [
+        45.0,
+        58.0,
+        473.0,
+        290.64
+      ],
+      "image": "q12.png",
+      "method": "ocr"
+    },
+    {
+      "no": 13,
+      "answer": "エ",
+      "pdfPage": 9,
+      "crop": [
+        45.0,
+        318.0,
+        473.0,
+        470.72
+      ],
+      "image": "q13.png",
+      "method": "ocr"
+    },
+    {
+      "no": 14,
+      "answer": "ア",
+      "pdfPage": 10,
+      "crop": [
+        45.0,
+        57.0,
+        473.0,
+        327.44
+      ],
+      "image": "q14.png",
+      "method": "ocr"
+    },
+    {
+      "no": 15,
+      "answer": "イ",
+      "pdfPage": 10,
+      "crop": [
+        45.0,
+        357.0,
+        473.0,
+        468.68
+      ],
+      "image": "q15.png",
+      "method": "ocr"
+    },
+    {
+      "no": 16,
+      "answer": "イ",
+      "pdfPage": 11,
+      "crop": [
+        45.0,
+        59.0,
+        473.0,
+        252.4
+      ],
+      "image": "q16.png",
+      "method": "ocr"
+    },
+    {
+      "no": 17,
+      "answer": "エ",
+      "pdfPage": 11,
+      "crop": [
+        45.0,
+        279.0,
+        473.0,
+        471.68
+      ],
+      "image": "q17.png",
+      "method": "ocr"
+    },
+    {
+      "no": 18,
+      "answer": "ウ",
+      "pdfPage": 12,
+      "crop": [
+        45.0,
+        58.0,
+        473.0,
+        396.12
+      ],
+      "image": "q18.png",
+      "method": "ocr"
+    },
+    {
+      "no": 19,
+      "answer": "イ",
+      "pdfPage": 12,
+      "crop": [
+        45.0,
+        424.0,
+        473.0,
+        635.76
+      ],
+      "image": "q19.png",
+      "method": "ocr"
+    },
+    {
+      "no": 20,
+      "answer": "エ",
+      "pdfPage": 13,
+      "crop": [
+        45.0,
+        59.0,
+        473.0,
+        270.76
+      ],
+      "image": "q20.png",
+      "method": "ocr"
+    },
+    {
+      "no": 21,
+      "answer": "ウ",
+      "pdfPage": 13,
+      "crop": [
+        45.0,
+        297.0,
+        473.0,
+        490.76
+      ],
+      "image": "q21.png",
+      "method": "ocr"
+    },
+    {
+      "no": 22,
+      "answer": "ア",
+      "pdfPage": 14,
+      "crop": [
+        45.0,
+        56.0,
+        473.0,
+        228.52
+      ],
+      "image": "q22.png",
+      "method": "ocr"
+    },
+    {
+      "no": 23,
+      "answer": "エ",
+      "pdfPage": 14,
+      "crop": [
+        45.0,
+        256.0,
+        473.0,
+        507.36
+      ],
+      "image": "q23.png",
+      "method": "ocr"
+    },
+    {
+      "no": 24,
+      "answer": "ア",
+      "pdfPage": 14,
+      "crop": [
+        45.0,
+        536.0,
+        473.0,
+        648.4
+      ],
+      "image": "q24.png",
+      "method": "ocr"
+    },
+    {
+      "no": 25,
+      "answer": "エ",
+      "pdfPage": 15,
+      "crop": [
+        45.0,
+        56.0,
+        473.0,
+        375.76
+      ],
+      "image": "q25.png",
+      "method": "ocr"
+    }
+  ]
+}

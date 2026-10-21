@@ -1,0 +1,4263 @@
+{
+  "updatedAt": "2026-10-21",
+  "userReview": "approved",
+  "scope": "平成21年度～令和7年度17回425問。うち平成28年度問2は公式に不成立で採点対象外。試作レビュー承認後、残り400問を追加・照合済み。",
+  "questions": [
+    {
+      "examId": "2025-r07-aki",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の四肢を確認。実行管理と経営側のガバナンスを区別。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "管理との往復矢印、変更要求・承認された変更を画像で確認。実行のプロセス群と照合。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 3,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "回帰・根本原因・差異・傾向の説明を各肢と対応させて再読。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "承認された拡大、未評価の追加、見積り不足、未承認の要求を区別。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 5,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "注目による行動変化を正答の事例と対応。誤答の心理用語を根拠なく一意に断定しない。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "A6日、A→Bリード2日、B7日、B→Cラグ3日、C5日、四肢を画像確認。終了時点6・11・12を再計算。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 7,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の両ネットワークを拡大確認。C10→12、G7→G1=2＋G2=5、ダミー作業、四肢を確認。総所要33→34を再計算。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 8,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "バッファ管理、資源追加、並行化の違いを各肢と対応させて確認。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 9,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の指数1.12と割り算を拡大確認。生産性の指数−0.12、減少が緩やかになるエの曲線と照合。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 10,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "正解イと各プロセス群の役割を照合。反復実施と規格の所属を混同しない説明。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 11,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "表の全列と三つの会議、四肢を画像確認。Whoが欠けることを6観点へ対応させた。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 12,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "特定、配布、管理、計画の目的を各肢へ対応。正答はニーズの決定。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 13,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "本人の一次資料で六つの英語と意味を確認。四肢と照合。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 14,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "四肢と公式正解アを確認。再照合でウを測定、エを品質保証へ訂正。NISTの該当プロセス説明も確認。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 15,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "Scrum Guideで開発者の計画更新、品質・ゴールの制約、POの責任を確認。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 16,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "ISO公式概要でプロセスの客観的な評価の要求を確認。改善そのものと区別。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 17,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "デバッガ、テスト支援、指標計測、不具合の状態管理を各肢へ対応。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 18,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の縦軸は料金総額。ウの正の傾きが小さくなる形、他三つのグラフも画像で比較。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 19,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "チケット・状態・ワークフローをRedmine公式機能と照合。四製品の主目的を区別。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 20,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "四肢の業務・機能・ビジネス・非機能の違いを再読。可用性などの具体例と照合。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 21,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "設問の帰責・支払期日前・修正という条件を公取委のQ&Aと照合。検査終了と受領を区別。2026年の名称変更を注記。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 22,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "消費者庁の教育周知、外部窓口、匿名対応の記述と照合。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 23,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "反復されるのが認証通知である点をCISA資料と照合。メール反復や寝顔利用と区別。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 24,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "日常業務の人・システムの問題に該当。固有リスクは統制前という別の分類観点として説明。"
+    },
+    {
+      "examId": "2025-r07-aki",
+      "no": 25,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "表のa遠隔ログ・bインストールCD・cディスク上のファイル・dルーティング状態を原本で確認。RFCの相対順序d→c→a→bと照合。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 3,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 5,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 6,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。 資源を使う区間と先行制約を原本で確認。開始時点の整数列挙でも最小19日を確認。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 7,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 8,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 9,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 10,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 11,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 12,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 13,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2022-r04-haru:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 14,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 15,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 16,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 17,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 18,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 19,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 20,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2023-r05-haru:15 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 21,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 22,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 23,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 24,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2024-r06-aki",
+      "no": 25,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 2,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 3,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 5,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 6,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 7,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。 資源を使う区間と先行制約を原本で確認。開始時点の整数列挙でも最小16日を確認。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 8,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:8 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 9,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 10,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 11,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 12,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 13,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 14,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2021-r03-haru:6 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 15,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 16,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 17,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 18,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 19,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 20,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 21,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 22,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 23,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 24,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2023-r05-aki",
+      "no": 25,
+      "pdfPage": 16,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2014-h26-aki:25 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。 当該年度のウ＝ホワイトボックス、エ＝アドバイザリの順序を原本と再照合して誤答解説を修正。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 3,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 5,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 6,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 7,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 8,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 9,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 11,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 12,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 13,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 14,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2021-r03-haru:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 15,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:17 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 16,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 17,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2025-r07-haru:11 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 18,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 19,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 20,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 21,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 22,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 23,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 24,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2022-r04-aki",
+      "no": 25,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 3,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 5,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 7,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:8 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 9,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 11,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 12,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 13,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 14,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 15,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 16,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2024-r06-haru:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 17,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2012-h24-aki:13 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 18,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 19,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 20,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 21,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 22,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 23,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 24,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2021-r03-aki",
+      "no": 25,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2022-r04-aki:1 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 3,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2022-r04-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 5,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 7,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:5 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 9,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 10,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 11,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 12,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 13,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 14,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 15,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2025-r07-haru:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 16,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 17,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2022-r04-aki:17 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 18,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 19,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 20,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2024-r06-haru:13 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 21,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 22,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 23,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2022-r04-aki:24 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 24,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2020-r02-oct",
+      "no": 25,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:25 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。 原本と再照合し、ウ＝アドバイザリ、エ＝ホワイトボックスに補助要約・誤答解説を訂正。ファジングの入力と挙動の観察を説明。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:1 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 3,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:5 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:8 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 5,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:11 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 7,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 9,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:11 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 11,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 12,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 13,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 14,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 15,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 16,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 17,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:17 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 18,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 19,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 20,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:19 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 21,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 22,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:21 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 23,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 24,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2024-r06-haru:18 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2019-h31-haru",
+      "no": 25,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:25 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 3,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 5,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:7 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 7,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 8,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 9,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2020-r02-oct:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 10,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 11,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 12,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 13,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 14,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 15,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 16,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2015-h27-aki:11 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 17,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 18,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:16 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 19,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 20,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 21,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 22,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 23,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2022-r04-aki:21 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 24,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2018-h30-haru",
+      "no": 25,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:24 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 3,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 5,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 7,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2022-r04-aki:5 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:5 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 9,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:6 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:7 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 11,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:7 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 12,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:8 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 13,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 14,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 15,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 16,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2018-h30-aki:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 17,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 18,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 19,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 20,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2020-r02-oct:18 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 21,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 22,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:22 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 23,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 24,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2017-h29-haru",
+      "no": 25,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。 問2の不成立注記枠が混入しないよう切出し下端を補正し、全四肢を再確認。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。 公式解答の注記と原本の全員正解措置を確認。不成立として正解null、採点対象外。注記枠を含むよう上端を補正し、画像全体を再確認。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 3,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 5,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 6,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 7,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 9,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 11,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 12,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2020-r02-oct:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 13,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 14,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 15,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2018-h30-haru:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 16,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 17,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2017-h29-aki:8 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 18,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 19,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2022-r04-aki:16 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 20,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 21,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:19 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 22,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 23,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2018-h30-haru:22 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 24,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2016-h28-haru",
+      "no": 25,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:25 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:1 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 3,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2017-h29-haru:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2018-h30-haru:7 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 5,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 7,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:5 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 9,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:6 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:8 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 11,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2017-h29-haru:13 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 12,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2018-h30-haru:11 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 13,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 14,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2020-r02-oct:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 15,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 16,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 17,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:16 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 18,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2017-h29-haru:17 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 19,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 20,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:18 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 21,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 22,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 23,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 24,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2019-h31-haru:24 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2015-h27-haru",
+      "no": 25,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2016-h28-haru:1 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 3,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 5,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2017-h29-haru:4 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 7,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。 全経路と短縮可能日数・費用を原本で照合。整数の短縮量を別列挙し、B3日＋A1日の11万円が最小と確認。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 9,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 11,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 12,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:11 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 13,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2018-h30-haru:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 14,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 15,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 16,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2017-h29-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 17,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2022-r04-aki:16 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 18,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2021-r03-haru:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 19,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 20,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:18 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 21,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2019-r01-aki:15 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 22,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 23,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 24,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2014-h26-haru",
+      "no": 25,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2024-r06-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 3,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 5,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2017-h29-haru:5 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2019-h31-haru:15 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 7,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 9,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:6 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 11,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2016-h28-haru:8 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 12,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2017-h29-haru:13 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 13,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2020-r02-oct:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 14,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 15,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2020-r02-oct:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 16,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 17,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 18,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 19,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:19 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 20,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 21,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2011-h23-aki:14 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 22,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 23,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2022-r04-aki:21 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 24,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2020-r02-oct:21 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2013-h25-haru",
+      "no": 25,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2016-h28-haru:3 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。 原本のウは開始時の人数。補助要約を訂正し、開始時の不確実性と区別。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2014-h26-haru:5 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 3,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:5 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 5,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 7,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2018-h30-haru:7 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 9,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 11,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 12,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 13,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 14,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2018-h30-haru:11 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 15,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 16,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 17,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2014-h26-aki:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 18,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 19,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 20,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 21,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2013-h25-aki:15 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 22,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2013-h25-aki:16 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 23,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2016-h28-aki:15 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 24,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2012-h24-haru",
+      "no": 25,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2014-h26-haru:3 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 3,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 5,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 7,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2017-h29-haru:13 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 9,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 11,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 12,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:11 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 13,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2016-h28-haru:13 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 14,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2018-h30-haru:10 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 15,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 16,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 17,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2023-r05-haru:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 18,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 19,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 20,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:18 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 21,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 22,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2012-h24-aki:14 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 23,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 24,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2011-h23-tokubetsu",
+      "no": 25,
+      "pdfPage": 15,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 2,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2025-r07-aki:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 3,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2019-h31-haru:15 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 4,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:5 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 5,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 6,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 7,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2020-r02-oct:5 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 8,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2018-h30-haru:7 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 9,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 10,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2012-h24-haru:9 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 11,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2020-r02-oct:12 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 12,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 13,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 14,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2018-h30-haru:11 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 15,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2011-h23-aki:3 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 16,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2011-h23-aki:2 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 17,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:14 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。 当該年度は自動車のクラス図。類似の用語定義問題の転用を改め、原本の図・四肢に合わせ汎化・継承・インスタンス・特化を説明。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 18,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 19,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 20,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2021-r03-aki:19 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 21,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 22,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 23,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2011-h23-aki:15 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 24,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2010-h22-haru",
+      "no": 25,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 1,
+      "pdfPage": 3,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 2,
+      "pdfPage": 4,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2016-h28-haru:8 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。 下端のページ番号を除去し、問題・四肢が欠けないことを画像全体で再確認。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 3,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 4,
+      "pdfPage": 5,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 5,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 6,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 7,
+      "pdfPage": 6,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 8,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2023-r05-aki:11 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 9,
+      "pdfPage": 7,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2016-h28-haru:13 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 10,
+      "pdfPage": 8,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 11,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 12,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2012-h24-haru:16 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 13,
+      "pdfPage": 9,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 14,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 15,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 16,
+      "pdfPage": 10,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 17,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 18,
+      "pdfPage": 11,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 19,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 20,
+      "pdfPage": 12,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 21,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：SA:2010-h22-aki:15 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 22,
+      "pdfPage": 13,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 23,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 24,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "原本の設問・選択肢の意味と公式正解を確認し、正答と各誤答の理由を独自に整理。 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    },
+    {
+      "examId": "2009-h21-haru",
+      "no": 25,
+      "pdfPage": 14,
+      "extraction": "checked",
+      "officialAnswer": "checked",
+      "imageReview": "checked",
+      "explanationReview": "checked",
+      "notes": "類似・再出題の問題を参照。追加後の別工程で当該年度の原本・肢の順序・公式正解・解説を再照合。 参照：2020-r02-oct:21 原本画像の設問・全四肢・図表の切出しを目視確認し、補助要約と解説を再読。"
+    }
+  ],
+  "limitations": [
+    "専門家による第三者レビューは未実施。",
+    "JIS規格原文の全文照合は未実施。設問・公式正解と確認した一次資料に基づいて説明。"
+  ],
+  "userReviewNote": "2026-10-21 利用者から「OKです。残りを進めてください」と回答。",
+  "reviewMethod": "作成後の別工程で、年度ごとに原本切出し画像を全問表示して欠けと選択肢・図表を目視照合。公開JSONの正解・補助要約・解説を再読し、計算を再計算した。同じ作成者による再確認であり、第三者によるレビューではない。公式正解は原本PDFから独立に再抽出して全425問照合した。"
+}
