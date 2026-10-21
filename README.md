@@ -3,7 +3,7 @@
 IPA公開のプロジェクトマネージャ試験・午前Ⅱ（現：科目A-2）を1問ずつ解く静的Webアプリ。
 [system-arch-training](https://github.com/rabut001/system-arch-training) のUIと演習の流れを引き継ぎ、スマホの画面構成、問題画像の拡大、軽量な復習支援を加えています。
 
-**平成21年度～令和7年度の全17回425問を収録しています。** 原本画像・公式正解・解説の照合を終え、ローカルで動作確認済みです。平成28年度春期問2はIPAによる不成立問題のため、閲覧のみで採点から除外します（採点対象424問）。GitHub Pagesへの公開は未実施です。
+**平成21年度～令和7年度の全17回425問を収録しています。** 原本画像・公式正解・解説の照合を終え、ローカル・GitHub Actions・公開URLで動作確認済みです。平成28年度春期問2はIPAによる不成立問題のため、閲覧のみで採点から除外します（採点対象424問）。[公開アプリはこちら](https://rabut001.github.io/project-manager-training-5/)（2026-10-21公開）。
 
 ## 起動
 
@@ -67,7 +67,7 @@ PC（1280px）とスマホ（390px）のChromiumで、採点、復元、一括�
 
 GitHubリポジトリのSettings → Pages → SourceをGitHub Actionsにします。公開物は `dist/` だけです。原本PDF、作業資料、OCRキャッシュは含まれません。
 
-初回リリース時に `.github/workflows/deploy.yml` を手動実行します。全17回425問、画像・解説の照合、試作の利用者レビューが揃っていない場合は公開を止めます。試作は公開できない設定です。baseパスはリポジトリ名から設定します。
+更新の公開時は `.github/workflows/deploy.yml` を手動実行します。全17回425問、画像・解説の照合、利用者レビューの記録を検証してから配信します。baseパスはリポジトリ名から設定します。
 
 ローカルで別の公開パスを確認する場合：
 
@@ -76,7 +76,7 @@ BASE_PATH=/my-repository/ npm run build
 BASE_PATH=/my-repository/ npm run preview
 ```
 
-公開先リポジトリは [rabut001/project-manager-training-5](https://github.com/rabut001/project-manager-training-5) です。GitHub ActionsはIPA原本を一時取得し、ハッシュ・公式解答を照合してからビルドします。Pagesで配信するのは `dist/` のみです。
+公開先リポジトリは [rabut001/project-manager-training-5](https://github.com/rabut001/project-manager-training-5) です。初回公開は完了しています。GitHub ActionsはIPA原本を一時取得し、ハッシュ・公式解答を照合してからビルドします。Pagesで配信するのは `dist/` のみです。
 
 ## 改修と保守
 
@@ -84,7 +84,7 @@ BASE_PATH=/my-repository/ npm run preview
 
 問題・解説の訂正は対応するJSONと必要な画像を修正し、原本・公式正解・解説を再照合します。採点は現行問題データから計算するため、公式正解の訂正も保存済み回答へ反映されます。
 
-依存の更新候補はDependabotが月次で作成する設定です。更新時は変更内容を確認し、`npm run check` と関連するブラウザ確認を行って取り込みます。公開後に不具合が出た場合は、該当変更をrevertし、検証して再公開します。初回リリースの照合記録は保守時にも保持します。
+依存の更新候補はDependabotが月次で作成する設定です。更新時は変更内容を確認し、`npm run check` と関連するブラウザ確認を行って取り込みます。公開後に不具合が出た場合は、該当変更をrevertし、検証して再公開します。初回リリースの照合記録は保守時にも保持します。IPAのURL変更や原本差替えで取得・ハッシュ照合が失敗した場合は、原本と公式解答を確認してからmanifestを更新します。
 
 ## 出典
 

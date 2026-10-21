@@ -1,6 +1,6 @@
 # 初回リリース
 
-状況：全17回425問の実装・内容照合・ローカル検証完了。GitHub Pages公開待ち。2026-10-21に利用者が試作を承認し、残りの作業を指示。
+状況：完了。全17回425問の実装・内容照合・ローカル／GitHub上の検証・GitHub Pages公開を完了。2026-10-21に利用者が試作を承認し、残りの作業を指示。
 
 ## 目的・変更内容
 
@@ -53,7 +53,7 @@
 
 ## 残作業
 
-GitHubの公開先URL・接続の確認、ソース反映、GitHub上のCheck実行、Pages設定、Deploy実行、公開URLでの確認。現在のフォルダーはGitリポジトリではなく、公開先のリモート設定もない。URLを推測して外部リポジトリを作成・変更してはいない。
+なし。GitHub作成から初回公開・公開URLでの動作確認まで完了。Safari実機・専門家による第三者レビューは実施範囲に含めていない。
 
 ## 全回への展開
 
@@ -86,3 +86,14 @@ GitHubの公開先URL・接続の確認、ソース反映、GitHub上のCheck実
 2026-10-21：利用者がghの利用、`project-manager-training-5`の新規作成からの公開を指示。認証アカウントはrabut001、同名のリポジトリがないことをghで確認した。公開リポジトリを作成し、mainへソースを登録、Pagesの配信元をGitHub Actionsに設定する。CheckとDeployを実行し、公開URL・直リンク・問題画像・回答と解説を確認する。公開物は検証済みのdistのみとする。
 
 初回登録の一括操作は、原本PDF・抽出作業資料もGitHubへ送る点について自動承認レビューで拒否された。より安全な構成として、原本PDF・OCR全文・年度別の抽出作業ファイルはローカルに保持してGit管理から除外する。GitHubへ登録するのはアプリ、配信データ、利用者指定の保守文書・照合結果、出典URLとハッシュ、再現に必要な最小限の切出し座標・正解メタデータとする。CIでは原本をIPAから一時取得してハッシュと公式正解を再照合する。
+
+
+### 初回公開の結果
+
+2026-10-21、利用者指定のghを使い、[rabut001/project-manager-training-5](https://github.com/rabut001/project-manager-training-5) を作成。mainに初回コミット `5ea8216` を登録し、GitHub Actionsを配信元とするPagesを有効化した。原本PDF・OCR・抽出作業資料がGitに含まれないこと、sourcesの登録対象がmanifest・index・年度メタデータだけであることを確認した。
+
+- [Check](https://github.com/rabut001/project-manager-training-5/actions/runs/39527910809)：成功。
+- [Deploy to GitHub Pages](https://github.com/rabut001/project-manager-training-5/actions/runs/39527925686)：build・deployとも成功。CI内で原本の一時取得、SHA-256、公式正解425問の照合、単体19件、ブラウザ44件、本番ビルド、公開条件検証を通過。
+- 座標記録を利用する画像再作成を追加。保存された座標から再描画した全425問と配信画像がピクセル単位で一致することを確認した。
+- 公開URL：[https://rabut001.github.io/project-manager-training-5/](https://rabut001.github.io/project-manager-training-5/)。HTTPSを確認。ChromiumのPC／スマホ相当で17回の一覧、年度の直リンク・再読込、画像読込、回答・解説、再読込後の保存、不成立問題の採点除外を確認。ブラウザの実行時エラー・HTTPエラーなし。公開画面のスクリーンショットも目視確認した。
+- READMEに公開先と保守手順を反映。以後の改修は新しいspecs案件で扱い、この案件の照合記録を保持する。
