@@ -4,11 +4,16 @@ updates:
     directory: /
     schedule:
       interval: monthly
+    ignore:
+      # Node.jsの採用LTS系列に合わせ、メジャー移行は手動で行う。
+      - dependency-name: '@types/node'
+        update-types: ['version-update:semver-major']
     groups:
-      development:
-        dependency-type: development
+      # 先に一致するグループが優先されるため、本体と型定義をまとめる。
       react:
         patterns: ['react', 'react-dom', '@types/react', '@types/react-dom']
+      development:
+        dependency-type: development
   - package-ecosystem: github-actions
     directory: /
     schedule:
